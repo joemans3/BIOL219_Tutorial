@@ -1,3 +1,8 @@
+
+
+THIS IS NOT MINE. HERE IS THE GUY YOU SHOULD GO TO. I HAVE ONLY ADAPTED THIS FOR THIS TUTORIAL. https://github.com/gerdos/PyRAMA
+
+
 # PyRAMA
 Python3 implementation of the Ramachandran plot
 
